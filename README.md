@@ -16,9 +16,9 @@ This repository is the official PyTorch implementation of "k-t CLAIR: Self-Consi
 </br>
 
 ## Updates
-- [2023/10/12] 🥉 We secured 3rd place in accelerated Cine reconstruction task in CMRxRecon Challenge during MICCAI 2023!
-- [2023/10/12] 🥉 We secured 3rd place in accelerated T1/T2 Mapping task in CMRxRecon Challenge during MICCAI 2023!
-- [2023/10/12] 🔥 Invited talk for CMRxRecon Challenge, Statistical Atlases and Computational Modeling of the Heart (STACOM) Workshop, MICCAI 2023 (Vancouver, Canada)!
+- [2023/10/12] 🥉 We secured 3rd place in accelerated Cine reconstruction task in [CMRxRecon Challenge](https://www.synapse.org/#!Synapse:syn51471091/wiki/624102) during MICCAI 2023!
+- [2023/10/12] 🥉 We secured 3rd place in accelerated T1/T2 Mapping task in [CMRxRecon Challenge](https://www.synapse.org/#!Synapse:syn51471091/wiki/624102) during MICCAI 2023!
+- [2023/10/12] 🔥 Invited talk for CMRxRecon Challenge, [Statistical Atlases and Computational Modeling of the Heart (STACOM) Workshop](https://stacom.github.io/stacom2023/), MICCAI 2023 (Vancouver, Canada)!
 
 ## Citation
 ```bibtex
