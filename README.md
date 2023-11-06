@@ -36,5 +36,8 @@ This repository is the official PyTorch implementation of "k-t CLAIR: Self-Consi
 This project is released under the Apache 2.0 license. The codes are based on [fastMRI](https://github.com/facebookresearch/fastMRI) and [CMRxRecon](https://github.com/CmrxRecon/CMRxRecon). Please also follow their licenses. Thanks for their awesome works.
 
 ## Contents
+<p align="center">
+<img width="1024" src="assets/overall-architecture-ktclair.png">
+</p>
 Coming soon ...
 
