@@ -26,13 +26,13 @@ This repository is the official PyTorch implementation of "k-t CLAIR: Self-Consi
 
 ## Citation
 ```bibtex
-@misc{zhang2023kt,
-      title={$k$-$t$ CLAIR: Self-Consistency Guided Multi-Prior Learning for Dynamic Parallel MR Image Reconstruction}, 
-      author={Liping Zhang and Weitian Chen},
-      year={2023},
-      eprint={2310.11050},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
+@inproceedings{zhang2023k,
+  title={k-t CLAIR: Self-consistency Guided Multi-prior Learning for Dynamic Parallel MR Image Reconstruction},
+  author={Zhang, Liping and Chen, Weitian},
+  booktitle={International Workshop on Statistical Atlases and Computational Models of the Heart},
+  pages={314--325},
+  year={2023},
+  organization={Springer}
 }
 ```
 
